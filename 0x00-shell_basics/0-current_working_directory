@@ -1,2 +1,2 @@
 #!/bin/bash
-path=$(realpath script2.sh)
+path=$(realpath “${BASH_SOURCE:-$0}”)
