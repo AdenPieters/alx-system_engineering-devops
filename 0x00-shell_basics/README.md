@@ -1,1 +1,1 @@
-My first readme
+Shows the absolute path name of the current working directory
